@@ -25,9 +25,9 @@ export default {
 }
 
 img {
-  border-radius: 50%; /* 画像を円形にする */
-  width: 100px; /* 画像の幅を100pxに設定 */
-  height: 100px; /* 画像の高さを100pxに設定 */
-  object-fit: cover; /* 画像の比率を保ちつつ、設定した領域に収める */
+  border-radius: 50%; 
+  width: 100px; 
+  height: 100px;
+  object-fit: cover; 
 }
 </style>
