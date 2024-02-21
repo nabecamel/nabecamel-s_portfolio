@@ -1,5 +1,5 @@
 <template>
-  <img alt="my_photo" src="./assets/IMG_9393 2.png">
+  <img alt="my_photo" src="./assets/IMG_9393 2.cce3f469.png">
   <GreetingsMessage msg="Welcome to my portfolio site"/>
 </template>
 
