@@ -4,7 +4,6 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production'
-    ? '/nabecamel.github.io/'
-    : '/'
-  }
+  publicPath: '/'
+}
+
